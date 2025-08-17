@@ -1,7 +1,6 @@
 {
   "name": "my-webpilot-alt",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
     "dev": "node -e \"console.log('Local dev')\""
   },
