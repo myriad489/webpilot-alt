@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import axios from 'axios';
-import xml2js from 'xml2js';
+import * as xml2js from 'xml2js';
 
 const ROOT_SITEMAP = 'https://myriadcooking.com/sitemap_index.xml';
 
